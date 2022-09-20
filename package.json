@@ -1,0 +1,20 @@
+{
+  "name": "latihan-udp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njedhir/latihan-udp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njedhir/latihan-udp/issues"
+  },
+  "homepage": "https://github.com/njedhir/latihan-udp#readme"
+}
