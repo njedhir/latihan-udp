@@ -6,7 +6,8 @@ socket.on('listening', () => {
   socket.setBroadcast(true)
   setInterval(() => {
     const msg = `${i} Hey`
-    socket.send(msg, 0, msg.length, 5555, '192.168.1.255')
+    socket.send(msg, 0, msg.length, 5555, '192.168.100.255')
+
     if (i < 10) {
       i++
     } else {
